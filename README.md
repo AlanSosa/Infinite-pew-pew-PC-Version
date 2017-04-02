@@ -114,7 +114,7 @@ Infinite pew pew is a [Cubito Morado](http://cubitomorado.blogspot.com) producti
 
 <img src="http://s15.postimg.org/beumtkhmz/logo_transpared_dark_label_590_256.png">
 
-Created by [Alan Sosa])(mailto:alan.sosa.mejia@gmail.com). Powered by lots of chocolate cookies and coffee.
+Created by [Alan Sosa](mailto:alan.sosa.mejia@gmail.com). Powered by lots of chocolate cookies and coffee.
 
 - Music by [Georgy Chirkov](http://opengameart.org/users/gichco)
 - "Crowd 1" sound effect [Phmiller42](http://freesound.org/people/phmiller42/)
