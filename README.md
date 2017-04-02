@@ -46,7 +46,6 @@ The objective of uploading the Source code of Infinite pew pew is that you, youn
 <a name="history"></a>
 ![history](http://s21.postimg.org/uffejhlef/history_header.png "history")
 
-
 Infinite pew pew began as a programming adventure, an education toy and as a playground where I could practice all the things related to game engines that I learned thanks to the internet. After a couple of weeks the project became more solid and so the decision to make it commercial became closer with the support of my family and friends. <br />
 
 2 years have passed since this project has finished, I have made some revenue of it, and if you want to know more about the story visit the [Blog](http://cubitomorado.blogspot.com) that I was writing when this project was alive. I learned so much from this: Business development, Importance of distribution channels, how deadly is to code a game engine and above all, I had tons of fun even thou I was starving most of the time. So enjoy this little piece of code and I hope is useful to you. <br /> 
@@ -56,7 +55,7 @@ Infinite pew pew began as a programming adventure, an education toy and as a pla
 
 All Infinite pew pew versions are [hosted on Github](http://github.com/AlanSosa/Infinite-pew-pew-PC-Version). You can:
 
-* Clone the git repository via [https](https://github.com/AlanSosa/Infinite-pew-pew-PC-Version.git), [ssh][clone-ssh] or with the Github [Windows](github-windows://openRepo/https://github.com/AlanSosa/Infinite-pew-pew-PC-Version) client.
+* Clone the git repository via [https](https://github.com/AlanSosa/Infinite-pew-pew-PC-Version.git) or with the Github [Windows](github-windows://openRepo/https://github.com/AlanSosa/Infinite-pew-pew-PC-Version) or [Mac](github-mac://openRepo/https://github.com/AlanSosa/Infinite-pew-pew-PC-Version) clients.
 * Download as [zip](https://github.com/AlanSosa/Infinite-pew-pew-PC-Version/archive/master.zip) or [tar.gz](https://github.com/AlanSosa/Infinite-pew-pew-PC-Version/archive/master.tar.gz).
 
 ### License
