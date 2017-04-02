@@ -51,3 +51,17 @@ Infinite pew pew began as a programming adventure, an education toy and as a pla
 
 2 years have passed since this project has finished, I have made some revenue of it, and if you want to know more about the story visit the [Blog](http://cubitomorado.blogspot.com) that I was writing when this project was alive. I learned so much from this: Business development, Importance of distribution channels, how deadly is to code a game engine and above all, I had tons of fun even thou I was starving most of the time. So enjoy this little piece of code and I hope is useful to you. <br /> 
 
+![Download Infinite pew pew](https://s21.postimg.org/d5a66cyl3/download_header.png "Download Infinite pew pew")
+<a name="download"></a>
+
+All Phaser versions are [hosted on Github][Infinite-pew-pew-PC-Version]. You can:
+
+* Clone the git repository via [https][clone-http], [ssh][clone-ssh] or with the Github [Windows][clone-ghwin] or [Mac][clone-ghmac] clients.
+* Download as [zip][get-zip] or [tar.gz][get-tgz]
+* Checkout with [svn][clone-svn]
+
+
+### License
+
+Infinite pew pew is released under the [MIT License](http://opensource.org/licenses/MIT).
+
