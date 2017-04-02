@@ -54,7 +54,7 @@ Infinite pew pew began as a programming adventure, an education toy and as a pla
 ![Download Infinite pew pew](http://s30.postimg.org/pa6rbdfc1/download_header.png "Download Infinite pew pew")
 <a name="download"></a>
 
-All Phaser versions are [hosted on Github][Infinite-pew-pew-PC-Version]. You can:
+All Infinite pew pew versions are [hosted on Github](http://github.com/AlanSosa/Infinite-pew-pew-PC-Version). You can:
 
 * Clone the git repository via [https][clone-http], [ssh][clone-ssh] or with the Github [Windows][clone-ghwin] or [Mac][clone-ghmac] clients.
 * Download as [zip][get-zip] or [tar.gz][get-tgz]
