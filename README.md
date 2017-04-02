@@ -56,10 +56,8 @@ Infinite pew pew began as a programming adventure, an education toy and as a pla
 
 All Infinite pew pew versions are [hosted on Github](http://github.com/AlanSosa/Infinite-pew-pew-PC-Version). You can:
 
-* Clone the git repository via [https][clone-http], [ssh][clone-ssh] or with the Github [Windows][clone-ghwin] or [Mac][clone-ghmac] clients.
-* Download as [zip][get-zip] or [tar.gz][get-tgz]
-* Checkout with [svn][clone-svn]
-
+* Clone the git repository via [https](https://github.com/AlanSosa/Infinite-pew-pew-PC-Version.git), [ssh][clone-ssh] or with the Github [Windows](github-windows://openRepo/https://github.com/AlanSosa/Infinite-pew-pew-PC-Version) client.
+* Download as [zip](https://github.com/AlanSosa/Infinite-pew-pew-PC-Version/archive/master.zip) or [tar.gz](https://github.com/AlanSosa/Infinite-pew-pew-PC-Version/archive/master.tar.gz).
 
 ### License
 
