@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{43CDA0D7-4137-4B52-9975-1E6BDD4F643C}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Infinite_pew_pew</RootNamespace>
+    <AssemblyName>Infinite pew pew</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>b3484887-638c-472a-b99c-1abc301b87fa</XnaCrossPlatformGroupID>
+    <XnaOutputType>Game</XnaOutputType>
+    <ApplicationIcon>ico.ico</ApplicationIcon>
+    <Thumbnail>GameThumbnail.png</Thumbnail>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Net" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Extensions\ColorUtil.cs" />
+    <Compile Include="Extensions\Extensions.cs" />
+    <Compile Include="Extensions\LineBatch.cs" />
+    <Compile Include="Game\Camera.cs" />
+    <Compile Include="Game\Effects\BloomComponent.cs" />
+    <Compile Include="Game\Effects\BloomSettings.cs" />
+    <Compile Include="Game\Effects\FirstLayer.cs" />
+    <Compile Include="Game\Effects\Grid.cs" />
+    <Compile Include="Game\Effects\Layer.cs" />
+    <Compile Include="Game\Entites\Bullet.cs" />
+    <Compile Include="Game\Entites\Core.cs" />
+    <Compile Include="Game\Entites\Enemies\Bouncer.cs" />
+    <Compile Include="Game\Entites\Enemies\Enemy.cs" />
+    <Compile Include="Game\Entites\Enemies\EnemyBarricade.cs" />
+    <Compile Include="Game\Entites\Enemies\EnemySpawner.cs" />
+    <Compile Include="Game\Entites\Enemies\ItemEnemy.cs" />
+    <Compile Include="Game\Entites\Enemies\MobileSpawner.cs" />
+    <Compile Include="Game\Entites\Enemies\Seeker.cs" />
+    <Compile Include="Game\Entites\Enemies\SeekerFasterFar.cs" />
+    <Compile Include="Game\Entites\Enemies\SeekerM1.cs" />
+    <Compile Include="Game\Entites\Enemies\SeekerM2.cs" />
+    <Compile Include="Game\Entites\Enemies\SpinAnd180Shooter.cs" />
+    <Compile Include="Game\Entites\Enemies\SpinAnd360Shooter.cs" />
+    <Compile Include="Game\Entites\Enemies\SpiralShooter.cs" />
+    <Compile Include="Game\Entites\Enemies\SquareMini.cs" />
+    <Compile Include="Game\Entites\Enemies\Wanderer.cs" />
+    <Compile Include="Game\Entites\Enemies\Worm.cs" />
+    <Compile Include="Game\Entites\Enemies\WormHead.cs" />
+    <Compile Include="Game\Entites\Enemies\WormTail.cs" />
+    <Compile Include="Game\Entites\Entity.cs" />
+    <Compile Include="Game\Entites\Items\Amigo.cs" />
+    <Compile Include="Game\Entites\Items\CounterMeter.cs" />
+    <Compile Include="Game\Entites\Items\Item.cs" />
+    <Compile Include="Game\Entites\Items\ItemPointer.cs" />
+    <Compile Include="Game\Entites\Items\ItemSpawner.cs" />
+    <Compile Include="Game\Entites\Items\Rockets.cs" />
+    <Compile Include="Game\Entites\Messages\BonusClock.cs" />
+    <Compile Include="Game\Entites\Messages\FadeInFadeOutMessage.cs" />
+    <Compile Include="Game\Entites\Messages\FadeInMessage.cs" />
+    <Compile Include="Game\Entites\Messages\FadingOutImageMessage.cs" />
+    <Compile Include="Game\Entites\Messages\FadingOutMessage.cs" />
+    <Compile Include="Game\Entites\Messages\Message.cs" />
+    <Compile Include="Game\Entites\Messages\ShakingMessage.cs" />
+    <Compile Include="Game\Entites\Messages\SlideInMessage.cs" />
+    <Compile Include="Game\Entites\Messages\StaticMessage.cs" />
+    <Compile Include="Game\Entites\PlayerShip.cs" />
+    <Compile Include="Game\Input.cs" />
+    <Compile Include="Game\MathUtil.cs" />
+    <Compile Include="Game\PlayerStatus.cs" />
+    <Compile Include="Game\QuadTree.cs" />
+    <Compile Include="Game\Resources.cs" />
+    <Compile Include="Managers\ColorManager.cs" />
+    <Compile Include="Managers\EntityManager.cs" />
+    <Compile Include="Managers\HudManager.cs" />
+    <Compile Include="Managers\ParticleManager.cs" />
+    <Compile Include="Managers\ParticleState.cs" />
+    <Compile Include="Managers\SoundManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Game1.cs" />
+    <Compile Include="ScreenManager\GameScreen.cs" />
+    <Compile Include="ScreenManager\InputState.cs" />
+    <Compile Include="ScreenManager\Logger.cs" />
+    <Compile Include="ScreenManager\ScreenManager.cs" />
+    <Compile Include="Screens\AboutMenuScreen.cs" />
+    <Compile Include="Screens\BackgroundScreen.cs" />
+    <Compile Include="Screens\GamePadSplashScreen.cs" />
+    <Compile Include="Screens\GameplayScreen.cs" />
+    <Compile Include="Screens\ImageTouchableEntry.cs" />
+    <Compile Include="Screens\InsertNameScreen.cs" />
+    <Compile Include="Screens\LeaderBoardsScreen.cs" />
+    <Compile Include="Screens\LoadingScreen.cs" />
+    <Compile Include="Screens\MainMenuScreen.cs" />
+    <Compile Include="Screens\MenuScreen.cs" />
+    <Compile Include="Screens\MessageBoxScreen.cs" />
+    <Compile Include="Screens\OptionsMenuScreen.cs" />
+    <Compile Include="Screens\PauseMenuScreen.cs" />
+    <Compile Include="Screens\PlayerIndexEventArgs.cs" />
+    <Compile Include="Screens\SplashScreen.cs" />
+    <Compile Include="Screens\TouchableEntry.cs" />
+    <Compile Include="ScreenUtils\FileHandler.cs" />
+    <Compile Include="ScreenUtils\MenuDecoration.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.ico" />
+    <Content Include="GameThumbnail.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+    <Content Include="ico.ico" />
+    <Content Include="infinitepewpewIcoBlurry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Infinite pew pew 60fpsContent\Infinite pew pew 60fpsContent.contentproj">
+      <Name>Infinite_pew_pew_60fpsContent</Name>
+      <XnaReferenceType>Content</XnaReferenceType>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Xna.Framework.4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft XNA Framework Redistributable 4.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

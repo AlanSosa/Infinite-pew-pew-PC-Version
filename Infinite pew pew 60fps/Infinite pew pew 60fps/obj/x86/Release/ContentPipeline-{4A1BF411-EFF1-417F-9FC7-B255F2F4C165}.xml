@@ -1,0 +1,769 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\AnimatedMessage.spritefont</Source>
+      <Name>Fonts\AnimatedMessage</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Fonts\AnimatedMessage.xnb</Output>
+      <Time>2015-01-30T21:59:41.789-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font.spritefont</Source>
+      <Name>Fonts\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Fonts\Font.xnb</Output>
+      <Time>2015-01-30T21:59:41.822-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\InstructionsBonusLevel.spritefont</Source>
+      <Name>Fonts\InstructionsBonusLevel</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Fonts\InstructionsBonusLevel.xnb</Output>
+      <Time>2015-01-30T21:59:41.829-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ItemFont.spritefont</Source>
+      <Name>Fonts\ItemFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Fonts\ItemFont.xnb</Output>
+      <Time>2015-01-30T21:59:41.85-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\gamefont.xnb</Output>
+      <Time>2015-01-30T21:59:43.557-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\menufont.xnb</Output>
+      <Time>2015-01-30T21:59:43.585-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\BloomCombine.fx</Source>
+      <Name>Shaders\BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Shaders\BloomCombine.xnb</Output>
+      <Time>2015-01-30T21:59:41.864-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\BloomExtract.fx</Source>
+      <Name>Shaders\BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Shaders\BloomExtract.xnb</Output>
+      <Time>2015-01-30T21:59:41.874-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\GaussianBlur.fx</Source>
+      <Name>Shaders\GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Shaders\GaussianBlur.xnb</Output>
+      <Time>2015-01-30T21:59:41.889-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\GameMusic.mp3</Source>
+      <Name>Sounds\Music\GameMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Music\GameMusic.xnb</Output>
+      <Extra>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Music\GameMusic.wma</Extra>
+      <Time>2015-01-30T21:59:41.96-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\OldBrokenRadio.mp3</Source>
+      <Name>Sounds\Music\OldBrokenRadio</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Music\OldBrokenRadio.xnb</Output>
+      <Extra>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Music\OldBrokenRadio.wma</Extra>
+      <Time>2015-01-30T21:59:42.04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\applause.wav</Source>
+      <Name>Sounds\Sfx\applause</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\applause.xnb</Output>
+      <Time>2015-01-30T21:59:42.11-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\applauseLower.wav</Source>
+      <Name>Sounds\Sfx\applauseLower</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\applauseLower.xnb</Output>
+      <Time>2015-01-30T21:59:42.146-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\aww.wav</Source>
+      <Name>Sounds\Sfx\aww</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\aww.xnb</Output>
+      <Time>2015-01-30T21:59:42.186-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\BackToMenu.wav</Source>
+      <Name>Sounds\Sfx\BackToMenu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\BackToMenu.xnb</Output>
+      <Time>2015-01-30T21:59:42.222-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\cashRegister.wav</Source>
+      <Name>Sounds\Sfx\cashRegister</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\cashRegister.xnb</Output>
+      <Time>2015-01-30T21:59:42.265-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\Hit_Hurt1.wav</Source>
+      <Name>Sounds\Sfx\Hit_Hurt1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\Hit_Hurt1.xnb</Output>
+      <Time>2015-01-30T21:59:42.3-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\Hit_Hurt10.wav</Source>
+      <Name>Sounds\Sfx\Hit_Hurt10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\Hit_Hurt10.xnb</Output>
+      <Time>2015-01-30T21:59:42.324-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\Hit_Hurt2.wav</Source>
+      <Name>Sounds\Sfx\Hit_Hurt2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\Hit_Hurt2.xnb</Output>
+      <Time>2015-01-30T21:59:42.354-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\Hit_Hurt3.wav</Source>
+      <Name>Sounds\Sfx\Hit_Hurt3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\Hit_Hurt3.xnb</Output>
+      <Time>2015-01-30T21:59:42.367-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\Hit_Hurt4.wav</Source>
+      <Name>Sounds\Sfx\Hit_Hurt4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\Hit_Hurt4.xnb</Output>
+      <Time>2015-01-30T21:59:42.375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\Hit_Hurt5.wav</Source>
+      <Name>Sounds\Sfx\Hit_Hurt5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\Hit_Hurt5.xnb</Output>
+      <Time>2015-01-30T21:59:42.401-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\Hit_Hurt6.wav</Source>
+      <Name>Sounds\Sfx\Hit_Hurt6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\Hit_Hurt6.xnb</Output>
+      <Time>2015-01-30T21:59:42.413-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\Hit_Hurt7.wav</Source>
+      <Name>Sounds\Sfx\Hit_Hurt7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\Hit_Hurt7.xnb</Output>
+      <Time>2015-01-30T21:59:42.427-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\Hit_Hurt8.wav</Source>
+      <Name>Sounds\Sfx\Hit_Hurt8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\Hit_Hurt8.xnb</Output>
+      <Time>2015-01-30T21:59:42.43-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\Hit_Hurt9.wav</Source>
+      <Name>Sounds\Sfx\Hit_Hurt9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\Hit_Hurt9.xnb</Output>
+      <Time>2015-01-30T21:59:42.462-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\normalShot.wav</Source>
+      <Name>Sounds\Sfx\normalShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\normalShot.xnb</Output>
+      <Time>2015-01-30T21:59:42.481-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\PickItem.wav</Source>
+      <Name>Sounds\Sfx\PickItem</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\PickItem.xnb</Output>
+      <Time>2015-01-30T21:59:42.494-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\PlayerDead.wav</Source>
+      <Name>Sounds\Sfx\PlayerDead</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\PlayerDead.xnb</Output>
+      <Time>2015-01-30T21:59:42.517-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\RocketsShot.wav</Source>
+      <Name>Sounds\Sfx\RocketsShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\RocketsShot.xnb</Output>
+      <Time>2015-01-30T21:59:42.543-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\slowdown.wav</Source>
+      <Name>Sounds\Sfx\slowdown</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\slowdown.xnb</Output>
+      <Time>2015-01-30T21:59:42.567-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\slowup.wav</Source>
+      <Name>Sounds\Sfx\slowup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\slowup.xnb</Output>
+      <Time>2015-01-30T21:59:42.595-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\SpawnBonusEnemies.wav</Source>
+      <Name>Sounds\Sfx\SpawnBonusEnemies</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\SpawnBonusEnemies.xnb</Output>
+      <Time>2015-01-30T21:59:42.612-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\SpawnItem.wav</Source>
+      <Name>Sounds\Sfx\SpawnItem</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\SpawnItem.xnb</Output>
+      <Time>2015-01-30T21:59:42.626-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\SpawnPlayer.wav</Source>
+      <Name>Sounds\Sfx\SpawnPlayer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\SpawnPlayer.xnb</Output>
+      <Time>2015-01-30T21:59:42.639-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Sfx\Yay.wav</Source>
+      <Name>Sounds\Sfx\Yay</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\Sfx\Yay.xnb</Output>
+      <Time>2015-01-30T21:59:42.672-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\UISounds\BackToMenu.wav</Source>
+      <Name>Sounds\UISounds\BackToMenu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\UISounds\BackToMenu.xnb</Output>
+      <Time>2015-01-30T21:59:42.761-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\UISounds\PopOff.wav</Source>
+      <Name>Sounds\UISounds\PopOff</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\UISounds\PopOff.xnb</Output>
+      <Time>2015-01-30T21:59:42.778-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\UISounds\PopUp.wav</Source>
+      <Name>Sounds\UISounds\PopUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\UISounds\PopUp.xnb</Output>
+      <Time>2015-01-30T21:59:42.828-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\UISounds\Select.wav</Source>
+      <Name>Sounds\UISounds\Select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\UISounds\Select.xnb</Output>
+      <Time>2015-01-30T21:59:42.865-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\UISounds\StartGame.wav</Source>
+      <Name>Sounds\UISounds\StartGame</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\UISounds\StartGame.xnb</Output>
+      <Time>2015-01-30T21:59:42.924-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\UISounds\vintagekeyboard.wav</Source>
+      <Name>Sounds\UISounds\vintagekeyboard</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sounds\UISounds\vintagekeyboard.xnb</Output>
+      <Time>2015-01-30T21:59:42.973-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Amigo.png</Source>
+      <Name>Sprites\Amigo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\Amigo.xnb</Output>
+      <Time>2015-01-30T21:59:42.978-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\AmigoBonusIco.jpg</Source>
+      <Name>Sprites\AmigoBonusIco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\AmigoBonusIco.xnb</Output>
+      <Time>2015-01-30T21:59:43.016-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\AmigoIco.jpg</Source>
+      <Name>Sprites\AmigoIco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\AmigoIco.xnb</Output>
+      <Time>2015-01-30T21:59:43.03-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\blank.png</Source>
+      <Name>Sprites\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\blank.xnb</Output>
+      <Time>2015-01-30T21:59:43.033-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Bouncer.png</Source>
+      <Name>Sprites\Bouncer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\Bouncer.xnb</Output>
+      <Time>2015-01-30T21:59:43.066-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Core.png</Source>
+      <Name>Sprites\Core</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\Core.xnb</Output>
+      <Time>2015-01-30T21:59:43.069-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\CoreFollowerBig.png</Source>
+      <Name>Sprites\CoreFollowerBig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\CoreFollowerBig.xnb</Output>
+      <Time>2015-01-30T21:59:43.072-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\CoreFollowerSmall.png</Source>
+      <Name>Sprites\CoreFollowerSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\CoreFollowerSmall.xnb</Output>
+      <Time>2015-01-30T21:59:43.076-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\CreditsCanvas.png</Source>
+      <Name>Sprites\CreditsCanvas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\CreditsCanvas.xnb</Output>
+      <Time>2015-01-30T21:59:43.105-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\EnemyBullet.png</Source>
+      <Name>Sprites\EnemyBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\EnemyBullet.xnb</Output>
+      <Time>2015-01-30T21:59:43.109-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\EnemyItem.png</Source>
+      <Name>Sprites\EnemyItem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\EnemyItem.xnb</Output>
+      <Time>2015-01-30T21:59:43.181-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\facebookIco.png</Source>
+      <Name>Sprites\facebookIco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\facebookIco.xnb</Output>
+      <Time>2015-01-30T21:59:43.195-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Glow.png</Source>
+      <Name>Sprites\Glow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\Glow.xnb</Output>
+      <Time>2015-01-30T21:59:43.197-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Laser.png</Source>
+      <Name>Sprites\Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\Laser.xnb</Output>
+      <Time>2015-01-30T21:59:43.2-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\oneeightyShooter.png</Source>
+      <Name>Sprites\oneeightyShooter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\oneeightyShooter.xnb</Output>
+      <Time>2015-01-30T21:59:43.232-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PlayerShip.png</Source>
+      <Name>Sprites\PlayerShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\PlayerShip.xnb</Output>
+      <Time>2015-01-30T21:59:43.242-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Seeker.png</Source>
+      <Name>Sprites\Seeker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\Seeker.xnb</Output>
+      <Time>2015-01-30T21:59:43.264-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SeekerFar.png</Source>
+      <Name>Sprites\SeekerFar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\SeekerFar.xnb</Output>
+      <Time>2015-01-30T21:59:43.288-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SeekerM1.png</Source>
+      <Name>Sprites\SeekerM1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\SeekerM1.xnb</Output>
+      <Time>2015-01-30T21:59:43.29-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SeekerM2.png</Source>
+      <Name>Sprites\SeekerM2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\SeekerM2.xnb</Output>
+      <Time>2015-01-30T21:59:43.363-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ShieldIco.png</Source>
+      <Name>Sprites\ShieldIco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\ShieldIco.xnb</Output>
+      <Time>2015-01-30T21:59:43.383-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SlowTimeBonusIco.jpg</Source>
+      <Name>Sprites\SlowTimeBonusIco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\SlowTimeBonusIco.xnb</Output>
+      <Time>2015-01-30T21:59:43.385-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SlowTimeMessageIco.png</Source>
+      <Name>Sprites\SlowTimeMessageIco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\SlowTimeMessageIco.xnb</Output>
+      <Time>2015-01-30T21:59:43.387-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SplashScreen2.png</Source>
+      <Name>Sprites\SplashScreen2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\SplashScreen2.xnb</Output>
+      <Time>2015-01-30T21:59:43.417-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SquareArray.png</Source>
+      <Name>Sprites\SquareArray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\SquareArray.xnb</Output>
+      <Time>2015-01-30T21:59:43.419-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\threesixtyShooter.png</Source>
+      <Name>Sprites\threesixtyShooter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\threesixtyShooter.xnb</Output>
+      <Time>2015-01-30T21:59:43.439-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\twitterIco.png</Source>
+      <Name>Sprites\twitterIco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\twitterIco.xnb</Output>
+      <Time>2015-01-30T21:59:43.452-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Wanderer.png</Source>
+      <Name>Sprites\Wanderer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\Wanderer.xnb</Output>
+      <Time>2015-01-30T21:59:43.467-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WeaponBonusIco.jpg</Source>
+      <Name>Sprites\WeaponBonusIco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\WeaponBonusIco.xnb</Output>
+      <Time>2015-01-30T21:59:43.471-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WeaponIco.png</Source>
+      <Name>Sprites\WeaponIco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\WeaponIco.xnb</Output>
+      <Time>2015-01-30T21:59:43.473-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\websiteIco.png</Source>
+      <Name>Sprites\websiteIco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\websiteIco.xnb</Output>
+      <Time>2015-03-05T20:34:10.3445-06:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\background.xnb</Output>
+      <Time>2015-01-30T21:59:43.523-06:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\blank.xnb</Output>
+      <Time>2015-01-30T21:59:43.527-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\gradient.xnb</Output>
+      <Time>2015-01-30T21:59:43.572-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Game Controller.png</Source>
+      <Name>Sprites\Game Controller</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\Game Controller.xnb</Output>
+      <Time>2015-02-08T10:17:38.783-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Star Red.png</Source>
+      <Name>Sprites\Star Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\Star Red.xnb</Output>
+      <Time>2015-02-25T20:46:10.3885-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Star Yellow.png</Source>
+      <Name>Sprites\Star Yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\Star Yellow.xnb</Output>
+      <Time>2015-02-25T20:46:03.9585-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\WindowsPhoneIco.png</Source>
+      <Name>Sprites\WindowsPhoneIco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\Sprites\WindowsPhoneIco.xnb</Output>
+      <Time>2015-03-05T19:27:38.1615-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{4A1BF411-EFF1-417F-9FC7-B255F2F4C165}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fpsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\DevPC\Documents\Visual Studio 2010\Projects\Infinite pew pew PC Version\Infinite pew pew 60fps\Infinite pew pew 60fps\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-16T09:54:05.648-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

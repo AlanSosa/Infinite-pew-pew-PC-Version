@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfPlayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Player>
+    <Name>Fulano</Name>
+    <Score>6000</Score>
+  </Player>
+  <Player>
+    <Name>Compadre</Name>
+    <Score>7000</Score>
+  </Player>
+  <Player>
+    <Name>AnotherDude</Name>
+    <Score>8000</Score>
+  </Player>
+  <Player>
+    <Name>Dude</Name>
+    <Score>9000</Score>
+  </Player>
+  <Player>
+    <Name>Bacon Lover</Name>
+    <Score>10000</Score>
+  </Player>
+</ArrayOfPlayer>yer>er>
