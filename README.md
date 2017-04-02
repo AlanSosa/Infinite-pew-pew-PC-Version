@@ -37,21 +37,21 @@ The objective of uploading the Source code of Infinite pew pew is that you, youn
 - [History](#history)
 - [Download Infinite pew pew](#download)
 - [Getting Started](#getting-started)
-- [Building Building Infinite pew pew](#Building-infinite-pew-pew)
+- [Building Infinite pew pew](#building)
 - [Documentation](#documentation)
-- [Credits](#credits)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
+- [Credits](#credits)
 
 <a name="history"></a>
-![history](http://s21.postimg.org/uffejhlef/history_header.png "history")
+![history](http://s24.postimg.org/5tj8t4bhx/history-header.png "history")
 
 Infinite pew pew began as a programming adventure, an education toy and as a playground where I could practice all the things related to game engines that I learned thanks to the internet. After a couple of weeks the project became more solid and so the decision to make it commercial became closer with the support of my family and friends. <br />
 
 2 years have passed since this project has finished, I have made some revenue of it, and if you want to know more about the story visit the [Blog](http://cubitomorado.blogspot.com) that I was writing when this project was alive. I learned so much from this: Business development, Importance of distribution channels, how deadly is to code a game engine and above all, I had tons of fun even thou I was starving most of the time. So enjoy this little piece of code and I hope is useful to you. <br /> 
 
-![Download Infinite pew pew](http://s30.postimg.org/pa6rbdfc1/download_header.png "Download Infinite pew pew")
 <a name="download"></a>
+![Download Infinite pew pew](http://s30.postimg.org/pa6rbdfc1/download_header.png "Download Infinite pew pew")
 
 All Infinite pew pew versions are [hosted on Github](http://github.com/AlanSosa/Infinite-pew-pew-PC-Version). You can:
 
@@ -61,4 +61,10 @@ All Infinite pew pew versions are [hosted on Github](http://github.com/AlanSosa/
 ### License
 
 Infinite pew pew is released under the [MIT License](http://opensource.org/licenses/MIT).
+
+<a name="getting-started"></a>
+![getting-started](http://s24.postimg.org/reobgq88l/getting-started-header.png "Getting Started")
+
+<a name="building"></a>
+![building](http://s24.postimg.org/8fu5wbdbp/building-infinite-pew-pew-header.png "Building Infinite pew pew")
 
