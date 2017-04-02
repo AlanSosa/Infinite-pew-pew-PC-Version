@@ -6,22 +6,22 @@
 
 Infinite pew pew is a clone of Geometry Wars with new mechanics. Experience an intense gameplay, full of danger in every corner you go (or escape), that will boil your blood and augment your adrenaline with hordes of enemies while dodging bullets and surviving as long as you can on this geometric mayhem of massacre and destruction.
 
-Features:
+## Features:
 
-5 kinds of weapons
-Weapon upgrades
-14 types of enemies
-Recruit Amigos (yeah, that's an actual item name in the game)
-Badass Time (a power up that slows down the game for a short period of time)
-Prepare to die a lot
+- 5 kinds of weapons
+- Weapon upgrades
+- 14 types of enemies
+- Recruit Amigos (yeah, that's an actual item name in the game)
+- Badass Time (a power up that slows down the game for a short period of time)
+- Prepare to die a lot
 
-Controls:
+## Controls:
 
-W,A,S,D - Move your ship
-Directional Arrows - Shooting directions
-Enter: Action Button
-ESC: Cancel Button
-Infinite pew pew also supports the xbox360 controller
+- W,A,S,D - Move your ship
+- Directional Arrows - Shooting directions
+- Enter: Action Button
+- ESC: Cancel Button
+- Infinite pew pew also supports the xbox360 controller
 
 Infinite pew pew is made with RIE, my own engine built with XNA, so in order to execute Infinite pew pew you have to install XNA on your windows computer. The process is different depending on your OS, so I recommend you to google it on how to do it. 
 
