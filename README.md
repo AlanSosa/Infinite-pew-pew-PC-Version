@@ -92,17 +92,19 @@ Well, the project is not entirely documented, any help would be really appreciat
 
 Infinite pew pew requires Visual Studio, XNA and the latest version of .NET framework. 
 
-While Infinite pew pew has the capilibilty to run in a different OS other than Windows, it is required to be ported first with another Framework/Library, there's over the internet in case you want to try that out. [Monogame](http://www.monogame.net/) and from what I read in some blogs [Cocos 2D XNA](http://cocos2dxna.codeplex.com/) will also work. Installing XNA on Win 7 is straightforward just download the everything and I will install without problems.
+While Infinite pew pew has the capilibilty to run in a different OS other than Windows, it is required to be ported first with another Framework/Library, there's tons of them over the internet in case you want to try that out. [Monogame](http://www.monogame.net/) and [Cocos 2D XNA](http://cocos2dxna.codeplex.com/) will work. 
+
+Installing XNA for Visual Studio 2010 is straightforward just download Infinite pew pew and will install without problems.
 
 [XNA Game Studio](http://www.microsoft.com/en-us/download/details.aspx?id=23714)
 
-XNA 4.0 was built for the 2010 editions of Visual Studio, and there is not yet a version that works latter editions. But we're not going to let that stop us. (Though it's always a possibility to go back and run Visual Studio 2010 and install XNA Game Studio directly, if you want.)
+XNA 4.0 was built for the 2010 editions of Visual Studio, and there is not yet a version that works in latter editions. But we're not going to let that stop us. (Though it's always a possibility to go back and run Visual Studio 2010 and install XNA Game Studio directly, if you want.)
 
 There's a ton of programmers out there that have solved this problem, just Google the magic words "Install XNA on [Insert your OS] and [Visual Studio Ver]". 
 
 - [This solved the problem for my Visual Studio 2015 installation](https://mxa.codeplex.com/releases/view/618279) 
 
-After installing XNA, you will be able to get started by running Visual Studio. (XNA doesn't show up as a separate program. It's an add-on.)
+After installing XNA, you will be able to get compile the game with Visual Studio. (XNA doesn't show up as a separate program. It's an add-on.)
 
 <a name="contributing"></a>
 ![contributing](http://s24.postimg.org/6pb4utvsl/contributing-header.png "Contributing")
