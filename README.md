@@ -25,10 +25,7 @@ Controls:
 
 Infinite pew pew is made with RIE, my own engine built with XNA, so in order to execute Infinite pew pew you have to install XNA on your windows computer. The process is different depending on your OS, so I recommend you to google it on how to do it. 
 
-After you managed to install XNA on your OS, you will need .NET which you can get from here:
-http://www.microsoft.com/en-us/download/details.aspx?id=17851
-
-The objective of uploading the Source code of Infinite pew pew is that you, young adventurers, want to build a Game Engine or a Game from Scrath know how to do it. Hopefully this code will help you solve some bugs, or give you an idea on how to build certain module in your application. If you have any questons feel free to send me a mail to alan.sosa.mejia@gmail, I'd be glad to help you in your project. 
+The objective of uploading the source code of Infinite pew pew is that you, young adventurers, want to build a Game Engine or a Game from Scrath know how to do it. Hopefully this code will help you solve some bugs, or give you an idea on how to build certain module in your application. If you have any questons feel free to send me a mail to alan.sosa.mejia@gmail, I'd be glad to help you in your project. 
 
 =)
 
@@ -64,6 +61,10 @@ Infinite pew pew is released under the [MIT License](http://opensource.org/licen
 
 <a name="getting-started"></a>
 ![getting-started](http://s24.postimg.org/reobgq88l/getting-started-header.png "Getting Started")
+
+The application a really tiny game, so understanding the code is not gonna be a big deal, unless you reach the parts that I coded in a rush, anyway send me an e-mail everytime you feel confused, I'd be glad to help. You can star by understanding the Game Engine RIE, or go directly to the Game Code, which both are in their respective folders. But for more information about RIE I recommend you to check ouy it's [repository](http://github.com/AlanSosa/Rie-Engine).
+
+The code is a little messy in some parts, most of the time I was racing against the money, I mean the clock.
 
 <a name="building"></a>
 ![building](http://s24.postimg.org/8fu5wbdbp/building-infinite-pew-pew-header.png "Building Infinite pew pew")
