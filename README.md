@@ -62,9 +62,11 @@ Infinite pew pew is released under the [MIT License](http://opensource.org/licen
 <a name="getting-started"></a>
 ![getting-started](http://s24.postimg.org/reobgq88l/getting-started-header.png "Getting Started")
 
-The application a really tiny game, so understanding the code is not gonna be a big deal, unless you reach the parts that I coded in a rush, anyway send me an e-mail everytime you feel confused, I'd be glad to help. You can star by understanding the Game Engine RIE, or go directly to the Game Code, which both are in their respective folders. But for more information about RIE I recommend you to check ouy it's [repository](http://github.com/AlanSosa/Rie-Engine).
+Understanding the code is not gonna be a big deal, unless you reach the parts that I coded in a rush, anyway send me an e-mail everytime you feel confused, I'd be glad to help. <br /> You can start by understanding the RIE engine or go directly to the Game Code, both are in their respective folders. But for more information about RIE I recommend you to check out it's [repository](http://github.com/AlanSosa/Rie-Engine) where you can find related documentation.
 
-The code is a little messy in some parts, most of the time I was racing against the money, I mean the clock.
+Every class in the Game Code folder is documented, I really tried to explain what a class does so in order to know what an class does, just check the documentation that's inside of it. Every month I check the code and I do certain updates to the documentation, so check it you once in a while.
+
+You can use whatever version of Visual Studio you're comfortable with, depending on your OS the setup is gonna be different but for that matter I recommend you to Google on how to Setup an XNA project for your OS and your Visual Studio version, because Microsoft is no longer supporting XNA. But that doesn't mean is totally dead, there's tweeks and "hacks" that talented programmers do, in order to make XNA work in newer versions of Windows, so don't be afraid to use Google.
 
 <a name="building"></a>
 ![building](http://s24.postimg.org/8fu5wbdbp/building-infinite-pew-pew-header.png "Building Infinite pew pew")
