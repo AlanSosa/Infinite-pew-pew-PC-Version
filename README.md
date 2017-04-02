@@ -2,7 +2,7 @@
 
 <img src="https://www.dropbox.com/s/w5sb3pyeef64ns6/Feature.jpg?dl=1" align="center">
 
-Infinite pew pew is a fast-paced shooter inspired in early 80's vector graphics arcade machines. Experience an intense gameplay, full of danger in every corner you go (or escape), that will boil your blood and augment your adrenaline with hordes of enemies while dodging bullets and surviving as long as you can on this geometric mayhem of massacre and destruction.
+Infinite pew pew is a clone of Geometry Wars with new mechanics. Experience an intense gameplay, full of danger in every corner you go (or escape), that will boil your blood and augment your adrenaline with hordes of enemies while dodging bullets and surviving as long as you can on this geometric mayhem of massacre and destruction.
 
 Features:
 
@@ -20,26 +20,21 @@ Enter: Action Button
 ESC: Cancel Button
 Infinite pew pew also supports the xbox360 controller
 
-More detailed description available in the end user manual.
+Infinite pew pew is made with RIE (My own engine) using XNA, so in order to execute Infinite pew pew you have to install XNA on your windows computer. The process is different depending on your OS, so I recommend you to google it. After you managed to install XNA on your OS, you will need .NET:
 
-Credits
+http://www.microsoft.com/en-us/download/details.aspx?id=17851
 
-Coded, Designed & SFX :
+The objective of uploading the Source code of Infinite pew pew is that you, young adventurers, want to build a Game Engine or a Game from Scrath know how to do it. Hopefully this code will help you solve some bugs, or give you an idea on how to build certain module in your application. If you have any questons feel free to send me a mail to alan.sosa.mejia@gmail, I'd be glad to help you in your project. =)
 
-@alansosame
+## Contents
 
-Music:
+- [History](#history)
+- [Download Phaser](#download)
+- [Getting Started](#getting-started)
+- [Building Phaser](#building-phaser)
+- [Documentation](#games)
+- [Requirements](#requirements)
+- [Contributing](#contributing)
 
-Georgy Chirkov "Gichco"
-
-http://opengameart.org/users/gichco
-
-Contact/Support
-
-General Inquiries and Technical support:
-
-cubitomorado@gmail.com
-
-Downloads:
-
-Right now you can download the full version,
+<a name="whats-new"></a>
+![What's New](http://phaser.io/images/github/div-whats-new.png "What's New")
