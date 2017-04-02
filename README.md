@@ -1,8 +1,8 @@
-# Infinite pew pew - a tiny fast paced twin stick shooter
+# Infinite pew pew - A tiny fast paced twin stick shooter
 
-<div align="center"></div>
-<img src="https://www.dropbox.com/s/w5sb3pyeef64ns6/Feature.jpg?dl=1" align="center">
-</div>
+
+<img src="https://www.dropbox.com/s/w5sb3pyeef64ns6/Feature.jpg?dl=1" align="middle">
+
 
 Infinite pew pew is a clone of Geometry Wars with new mechanics. Experience an intense gameplay, full of danger in every corner you go (or escape), that will boil your blood and augment your adrenaline with hordes of enemies while dodging bullets and surviving as long as you can on this geometric mayhem of massacre and destruction.
 
@@ -37,10 +37,13 @@ The objective of uploading the Source code of Infinite pew pew is that you, youn
 - [History](#history)
 - [Download Infinite pew pew](#download)
 - [Getting Started](#getting-started)
-- [Building Building Infinite pew pew](#Buildinging-infinite-pew-pew)
+- [Building Building Infinite pew pew](#Building-infinite-pew-pew)
 - [Documentation](#documentation)
+- [Credits](#credits)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
 
 <a name="history"></a>
 ![history](http://s21.postimg.org/uffejhlef/history_header.png "history")
+
+
