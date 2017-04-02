@@ -126,7 +126,7 @@ Created by [Alan Sosa](mailto:alan.sosa.mejia@gmail.com). Powered by lots of cho
 
 ### Aditional links 
 
-[Landing Page Cubito Morado](http://www.cubitomorado.blogspot.com)
-[Landing Infinite pew pew](http://cubitomorado.blogspot.com/p/infinite-pew-pew.html)
-[Infinite pew pew on Windows Phone](http://www.microsoft.com/es-mx/store/p/infinite-pew-pew-free/9nblgggzmvvn)
+- [Landing Page Cubito Morado](http://www.cubitomorado.blogspot.com)
+- [Landing Infinite pew pew](http://cubitomorado.blogspot.com/p/infinite-pew-pew.html)
+- [Infinite pew pew on Windows Phone](http://www.microsoft.com/es-mx/store/p/infinite-pew-pew-free/9nblgggzmvvn)
 
