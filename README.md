@@ -73,12 +73,12 @@ You can use whatever version of Visual Studio you're comfortable with, depending
 <a name="building"></a>
 ![building](http://s24.postimg.org/8fu5wbdbp/building-infinite-pew-pew-header.png "Building Infinite pew pew")
 
-Infinite pew pew is provided with alredy compiled sources in the RELEASE folder. There are the .XNB's, to make Infinite pew pew run even without compiling it. After you downloaded it and setup the environment just click the RUN button and Infinite pew pew will compile and run. You will probably want to install before compiling:
+Infinite pew pew is provided with alredy compiled sources in the RELEASE folder. There are the .XNB's, to make Infinite pew pew run even without compiling it. After you downloaded it and setup the environment just click the RUN button and Infinite pew pew will compile and run. Down below are the fonts needed to compile the game, In case I forgot to add the fonts needed, just check the .spritefonts files and in the FONT NAME tag there's the name of the missing fonts, change them or download them.
 
 - [Forced Square](http://www.dafont.com/forced-square.font)
 - [Inversionz](http://www.dafont.com/inversionz.font)
 
-In case I forgot to add the fonts needed, just check the .spritefonts files and in the <Font Name> mdownload the described fonts. Infinite pew pew includes the latest version of RIE, which allows you to modify, improve or tweek the game as you please without constraints, see the [Rie repository](http://github.com/AlanSosa/Rie-Engine) to find related documentation or check the source code inside the RIE ENGINE folder.
+Infinite pew pew includes the latest version of RIE, which allows you to modify, improve or tweek the game as you please without constraints, see the [Rie repository](http://github.com/AlanSosa/Rie-Engine) to find related documentation or check the source code inside the RIE ENGINE folder.
 
 <a name="documentation"></a>
 ![documentation](http://s24.postimg.org/dig34ubzp/documentation-header.png "Documentation")
@@ -92,7 +92,7 @@ Well, the project is not entirely documented, any help would be really appreciat
 
 Infinite pew pew requires Visual Studio, XNA and the latest version of .NET framework. 
 
-While Infinite pew pew has the capilibilty to run in a different OS other than Windows, it is required to be ported first with another Framework/Library, there's tons of them over the internet in case you want to try that out. [Monogame](http://www.monogame.net/) and [Cocos 2D XNA](http://cocos2dxna.codeplex.com/) will work. 
+While Infinite pew pew has the capilibilty to run in a different OS other than Windows, it is required to be ported first with another Framework/Library. There's tons of them over the internet, in case you want to try that out use [Monogame](http://www.monogame.net/) or [Cocos 2D XNA](http://cocos2dxna.codeplex.com/). 
 
 Installing XNA for Visual Studio 2010 is straightforward just download Infinite pew pew and will install without problems.
 
@@ -104,7 +104,7 @@ There's a ton of programmers out there that have solved this problem, just Googl
 
 - [This solved the problem for my Visual Studio 2015 installation](https://mxa.codeplex.com/releases/view/618279) 
 
-After installing XNA, you will be able to get compile the game with Visual Studio. (XNA doesn't show up as a separate program. It's an add-on.)
+After installing XNA, you will be able to compile the game with Visual Studio. (XNA doesn't show up as a separate program. It's an add-on.)
 
 <a name="contributing"></a>
 ![contributing](http://s24.postimg.org/6pb4utvsl/contributing-header.png "Contributing")
