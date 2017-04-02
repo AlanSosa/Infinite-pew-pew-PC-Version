@@ -39,7 +39,7 @@ The objective of uploading the Source code of Infinite pew pew is that you, youn
 - [Getting Started](#getting-started)
 - [Building Infinite pew pew](#building)
 - [Documentation](#documentation)
-- [Requirements](#requirements)
+- [Requeriments](#requeriments)
 - [Contributing](#contributing)
 - [Credits](#credits)
 
@@ -68,3 +68,14 @@ Infinite pew pew is released under the [MIT License](http://opensource.org/licen
 <a name="building"></a>
 ![building](http://s24.postimg.org/8fu5wbdbp/building-infinite-pew-pew-header.png "Building Infinite pew pew")
 
+<a name="documentation"></a>
+![documentation](http://s24.postimg.org/dig34ubzp/documentation-header.png "Documentation")
+
+<a name="Requeriments"></a>
+![requeriments](http://s24.postimg.org/jbq55enn9/requeriments-header.png "Building Infinite pew pew")
+
+<a name="contributing"></a>
+![contributing](http://s24.postimg.org/6pb4utvsl/contributing-header.png "Contributing")
+
+<a name="credits"></a>
+![credits](http://s24.postimg.org/pvsxbr1o5/credits-header.png "Credits")
