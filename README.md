@@ -23,9 +23,9 @@ Infinite pew pew is a clone of Geometry Wars with new mechanics. Experience an i
 - ESC: Cancel Button
 - Infinite pew pew also supports the xbox360 controller
 
-Infinite pew pew is made with RIE, my own engine built with XNA, so in order to execute Infinite pew pew you have to install XNA on your windows computer. The process is different depending on your OS, so I recommend you to google it on how to do it. 
+Infinite pew pew is made with RIE, my own engine built with XNA, so in order to execute Infinite pew pew you have to install XNA on your windows computer. The process is different depending on your Visual Studio version, so I recommend to google it. 
 
-The objective of uploading the source code of Infinite pew pew is that you, young adventurers, want to build a Game Engine or a Game from Scrath know how to do it. Hopefully this code will help you solve some bugs, or give you an idea on how to build certain module in your application. If you have any questons feel free to send me a mail to alan.sosa.mejia@gmail, I'd be glad to help you in your project. 
+The objective of uploading the source code of Infinite pew pew is that you, young adventurers, that want to build a Game Engine or a Game from Scrath know how to do it. Hopefully this code will help you solve some bugs, or give you an idea on how to build a certain module in your application. If you have any questons feel free to send me a mail to alan.sosa.mejia@gmail, I'd be glad to help you in your project. 
 
 =)
 
@@ -45,7 +45,7 @@ The objective of uploading the source code of Infinite pew pew is that you, youn
 
 Infinite pew pew began as a programming adventure, an education toy and as a playground where I could practice all the things related to game engines that I learned thanks to the internet. After a couple of weeks the project became more solid and so the decision to make it commercial became closer with the support of my family and friends.
 
-2 years have passed since this project has finished, I have made some revenue of it, and if you want to know more about the story visit the [Blog](http://cubitomorado.blogspot.com) that I was writing when this project was alive. I learned so much from this: Business development, Importance of distribution channels, how deadly is to code a game engine and above all, I had tons of fun even thou I was starving most of the time. So enjoy this little piece of code and I hope is useful to you. 
+3 years have passed since this project has finished, I have made some revenue of it, and if you want to know more about the story visit the [Blog](http://cubitomorado.blogspot.com) that I was writing when this project was alive. I learned so much from this: Business development, Importance of distribution channels, how deadly is to code a game engine and above all, I had tons of fun even thou I was starving most of the time. So enjoy this little piece of code and I hope is useful to you.
 
 <a name="download"></a>
 ![Download Infinite pew pew](http://s30.postimg.org/pa6rbdfc1/download_header.png "Download Infinite pew pew")
@@ -64,11 +64,11 @@ Infinite pew pew is released under the [MIT License](http://opensource.org/licen
 
 Understanding the code is not gonna be a big deal, unless you reach the parts that I coded in a rush, anyway send me an e-mail everytime you feel confused, I'd be glad to help.
 
-You can start by understanding the RIE ENGINE or go directly to the GAME CODE, both are in their respective folders. But for more information about RIE I recommend you to check out it's [repository](http://github.com/AlanSosa/Rie-Engine) where you can find related documentation.
+You can start by understanding the RIE ENGINE or go directly to the GAME code, both are in their respective folders. But for more information about RIE I recommend you to check out it's [repository](http://github.com/AlanSosa/Rie-Engine) where you can find related documentation.
 
-Every class in the Game Code folder is documented, in order to know what an class does, just check the documentation that's inside of it. Every month I check the code and I do certain updates to the documentation, so make sure to check it out once in a while.
+Every class in the GAME folder is documented, just check the documentation inside of it to know how it works. Every month I check the code and I do certain updates to the documentation, so make sure to check it out once in a while.
 
-You can use whatever version of Visual Studio you're comfortable with, depending on your OS the setup is gonna be different but for that matter I recommend you to Google on how to Setup an XNA project for your OS and your Visual Studio version, because Microsoft is no longer supporting XNA. But that doesn't mean is totally dead, there's tweeks and "hacks" that talented programmers have done to make XNA work in newer versions of Windows, so don't be afraid to use Google. The magic words are " Install XNA on [Insert your OS version] ".
+You can use whatever version of Visual Studio you're comfortable with, depending on what version you use, setting up XNA is gonna be different but for that matter I recommend you to Google on how to Setup an XNA project for your Visual Studio version, because Microsoft is no longer supporting XNA. But that doesn't mean is totally dead, there's tweeks and "hacks" that talented programmers have done to make XNA work in newer versions of Windows, so don't be afraid to use Google. The magic words are " Install XNA on [Insert your OS version] ".
 
 <a name="building"></a>
 ![building](http://s24.postimg.org/8fu5wbdbp/building-infinite-pew-pew-header.png "Building Infinite pew pew")
