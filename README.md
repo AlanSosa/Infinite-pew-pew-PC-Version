@@ -113,3 +113,20 @@ Written something cool in RIE? Please tell me about it in alan.sosa.mejia@gmail.
 Infinite pew pew is a [Cubito Morado](http://cubitomorado.blogspot.com) production.
 
 <img src="http://s15.postimg.org/beumtkhmz/logo_transpared_dark_label_590_256.png">
+
+Created by [Alan Sosa])(mailto:alan.sosa.mejia@gmail.com). Powered by lots of chocolate cookies and coffee.
+
+- Music by [Georgy Chirkov](http://opengameart.org/users/gichco)
+- "Crowd 1" sound effect [Phmiller42](http://freesound.org/people/phmiller42/)
+- "Crowd 2" sound effect [Mlteenie](http://freesound.org/people/mlteenie/)
+- "Crowd 3" sound effect [Zott820](http://freesound.org/people/zott820/)
+- Some of the sound effects [Virix](https://soundcloud.com/virix)
+
+"Above all, video games are meant to be just one thing: fun. Fun for everyone." - Satoru Iwata
+
+### Aditional links 
+
+[Landing Page Cubito Morado](http://www.cubitomorado.blogspot.com)
+[Landing Infinite pew pew](http://cubitomorado.blogspot.com/p/infinite-pew-pew.html)
+[Infinite pew pew on Windows Phone](http://www.microsoft.com/es-mx/store/p/infinite-pew-pew-free/9nblgggzmvvn)
+
