@@ -1,6 +1,6 @@
 # Infinite pew pew - a tiny fast paced twin stick shooter
 
-<img src="http://www.dropbox.com/s/se0s9o2s477t1bu/Feature.jpg?dl=1" align="center">
+<img src="https://www.dropbox.com/s/w5sb3pyeef64ns6/Feature.jpg?dl=1" align="center">
 
 Infinite pew pew is a fast-paced shooter inspired in early 80's vector graphics arcade machines. Experience an intense gameplay, full of danger in every corner you go (or escape), that will boil your blood and augment your adrenaline with hordes of enemies while dodging bullets and surviving as long as you can on this geometric mayhem of massacre and destruction.
 
