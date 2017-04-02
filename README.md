@@ -6,7 +6,7 @@
 
 Infinite pew pew is a clone of Geometry Wars with new mechanics. Experience an intense gameplay, full of danger in every corner you go (or escape), that will boil your blood and augment your adrenaline with hordes of enemies while dodging bullets and surviving as long as you can on this geometric mayhem of massacre and destruction.
 
-## Features:
+<h2>Features:</h2>
 
 - 5 kinds of weapons
 - Weapon upgrades
@@ -15,7 +15,7 @@ Infinite pew pew is a clone of Geometry Wars with new mechanics. Experience an i
 - Badass Time (a power up that slows down the game for a short period of time)
 - Prepare to die a lot
 
-## Controls:
+<h2> Controls: </h2>
 
 - W,A,S,D - Move your ship
 - Directional Arrows - Shooting directions
