@@ -1,7 +1,7 @@
 # Infinite pew pew - A tiny fast paced twin stick shooter
 
 
-<img src="https://www.dropbox.com/s/w5sb3pyeef64ns6/Feature.jpg?dl=1" align="right"><br />
+<img src="https://www.dropbox.com/s/w5sb3pyeef64ns6/Feature.jpg?dl=1" align="center"><br />
 
 
 Infinite pew pew is a clone of Geometry Wars with new mechanics. Experience an intense gameplay, full of danger in every corner you go (or escape), that will boil your blood and augment your adrenaline with hordes of enemies while dodging bullets and surviving as long as you can on this geometric mayhem of massacre and destruction.
