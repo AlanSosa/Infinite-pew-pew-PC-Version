@@ -43,9 +43,9 @@ The objective of uploading the source code of Infinite pew pew is that you, youn
 <a name="history"></a>
 ![history](http://s24.postimg.org/5tj8t4bhx/history-header.png "history")
 
-Infinite pew pew began as a programming adventure, an education toy and as a playground where I could practice all the things related to game engines that I learned thanks to the internet. After a couple of weeks the project became more solid and so the decision to make it commercial became closer with the support of my family and friends. <br />
+Infinite pew pew began as a programming adventure, an education toy and as a playground where I could practice all the things related to game engines that I learned thanks to the internet. After a couple of weeks the project became more solid and so the decision to make it commercial became closer with the support of my family and friends.
 
-2 years have passed since this project has finished, I have made some revenue of it, and if you want to know more about the story visit the [Blog](http://cubitomorado.blogspot.com) that I was writing when this project was alive. I learned so much from this: Business development, Importance of distribution channels, how deadly is to code a game engine and above all, I had tons of fun even thou I was starving most of the time. So enjoy this little piece of code and I hope is useful to you. <br /> 
+2 years have passed since this project has finished, I have made some revenue of it, and if you want to know more about the story visit the [Blog](http://cubitomorado.blogspot.com) that I was writing when this project was alive. I learned so much from this: Business development, Importance of distribution channels, how deadly is to code a game engine and above all, I had tons of fun even thou I was starving most of the time. So enjoy this little piece of code and I hope is useful to you. 
 
 <a name="download"></a>
 ![Download Infinite pew pew](http://s30.postimg.org/pa6rbdfc1/download_header.png "Download Infinite pew pew")
@@ -62,7 +62,9 @@ Infinite pew pew is released under the [MIT License](http://opensource.org/licen
 <a name="getting-started"></a>
 ![getting-started](http://s24.postimg.org/reobgq88l/getting-started-header.png "Getting Started")
 
-Understanding the code is not gonna be a big deal, unless you reach the parts that I coded in a rush, anyway send me an e-mail everytime you feel confused, I'd be glad to help. <br /> You can start by understanding the RIE engine or go directly to the Game Code, both are in their respective folders. But for more information about RIE I recommend you to check out it's [repository](http://github.com/AlanSosa/Rie-Engine) where you can find related documentation.
+Understanding the code is not gonna be a big deal, unless you reach the parts that I coded in a rush, anyway send me an e-mail everytime you feel confused, I'd be glad to help.
+
+You can start by understanding the RIE engine or go directly to the Game Code, both are in their respective folders. But for more information about RIE I recommend you to check out it's [repository](http://github.com/AlanSosa/Rie-Engine) where you can find related documentation.
 
 Every class in the Game Code folder is documented, I really tried to explain what a class does so in order to know what an class does, just check the documentation that's inside of it. Every month I check the code and I do certain updates to the documentation, so check it you once in a while.
 
